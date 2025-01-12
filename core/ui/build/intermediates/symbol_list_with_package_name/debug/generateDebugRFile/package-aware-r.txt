@@ -1,0 +1,3 @@
+com.hgh.mmt.core.designsystem
+style Theme_HGH
+style Theme_HGH_TransparentSystemBar

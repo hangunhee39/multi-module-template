@@ -1,0 +1,2 @@
+int style Theme_HGH 0x0
+int style Theme_HGH_TransparentSystemBar 0x0
